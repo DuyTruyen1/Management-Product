@@ -18,3 +18,4 @@
     @endforeach
 </table>
 {{-- Hello Truyền --}}
+{{-- Hello Truyền 2 --}}
